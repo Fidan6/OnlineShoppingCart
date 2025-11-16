@@ -67,9 +67,5 @@ public class ShoppingCart {
     }
 
 
- // o zaman bele edek . Men bunu goturecem yazam . Siz bunu push edin , men ize codeShare ile gonderecem
-    //daha sonra hemen kodlari yapishdirarsiniz .
-    // Onda bunu push edin git-e
-    //indi? beli men axsham yazacam size gonderem , ordan yeniden bura elave edersiniz yazarsinz,oldu narahat olmayin hell edeceyik
-    //cox sagolunn buyurun
+
 }
